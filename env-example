@@ -1,0 +1,9 @@
+APP_ENV = "dev"
+APP_LEVEL = "debug"
+APP_API_PORT = "8080"
+
+MYSQL_HOST = "localhost"
+MYSQL_PORT = "3306"
+MYSQL_USERNAME = "user"
+MYSQL_PASSWORD = "password"
+MYSQL_DBNAME = "db"
